@@ -1,0 +1,60 @@
+{
+  "wishes": [
+    {
+      "id": "0b3b",
+      "title": "Iphone 14 Pro X",
+      "description": "sdfdsf",
+      "price": 1000,
+      "image": "https://cdn.new-brz.net/app/public/models/MQ0G3ZD-A/large/w/231212080100374155.webp",
+      "createdAt": "2026-01-10T15:58:09.334Z"
+    },
+    {
+      "id": "85d4",
+      "title": "MacBook Pro",
+      "description": "dasdas",
+      "price": 2000,
+      "image": "https://appleroom.ua/wa-data/public/shop/categories/1041/advancedparams/macair15m2.png",
+      "createdAt": "2026-01-10T22:13:33.375Z"
+    },
+    {
+      "id": "0b44",
+      "title": "fsdfsd",
+      "description": "fdsfsd",
+      "price": 4323,
+      "image": "fdsf",
+      "createdAt": "2026-01-11T11:00:40.174Z"
+    },
+    {
+      "id": "ea4b",
+      "title": "fdsfsd",
+      "description": "fds",
+      "price": 444,
+      "image": "fsdf",
+      "createdAt": "2026-01-11T11:00:50.830Z"
+    },
+    {
+      "id": "8c4b",
+      "title": "fsdf",
+      "description": "fsdfsdfs",
+      "price": 3443,
+      "image": "fdsfsdf",
+      "createdAt": "2026-01-11T11:01:03.936Z"
+    },
+    {
+      "id": "a67d",
+      "title": "fsdfddddasda",
+      "description": "fdskn",
+      "price": 3242,
+      "image": "fsdfsd",
+      "createdAt": "2026-01-11T11:01:14.546Z"
+    },
+    {
+      "id": "4947",
+      "title": "fsdfsdf",
+      "description": "fsdfsdfsd",
+      "price": 32333,
+      "image": "fdsfsd",
+      "createdAt": "2026-01-11T11:01:25.641Z"
+    }
+  ]
+}
