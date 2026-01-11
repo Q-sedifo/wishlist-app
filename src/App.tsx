@@ -1,10 +1,19 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Dashboard from './pages/Dashboard'
+import WishPage from './pages/WishPage'
+import { Providers } from './components/providers'
 import './App.css'
 
 function App() {
   return (
-    <div className="min-h-screen bg-red-500 flex items-center justify-center">
-      <h1 className="text-3xl font-bold">Tailwind працює 🚀</h1>
-    </div>
+    <Providers>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Dashboard />} />
+          <Route path="/wish/:id" element={<WishPage />} />
+        </Routes>
+      </BrowserRouter>
+    </Providers>
   )
 }
 
